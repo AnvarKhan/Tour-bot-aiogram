@@ -1,0 +1,6 @@
+TOKEN = 'Bot_Token'
+Admin = 'Admin_Id'
+host = 'localhost'
+password = 'password_db'
+db_name = 'db_name'
+user = 'user'
